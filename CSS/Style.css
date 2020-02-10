@@ -7,3 +7,7 @@ h1{
     color: yellow;
     font-family: cursive;
 }
+.img_padrao{
+    margin-bottom: 20px;
+    width: 250px;
+}
